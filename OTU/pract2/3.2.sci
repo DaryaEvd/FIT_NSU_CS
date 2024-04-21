@@ -13,5 +13,4 @@ x2 = cos(t);
 y2 = cos(2 * t);
 z2 = sin(t);
 title('plot of the 2nd system');
-//param3d(x2, y2, z2, 45, 15);
 param3d(x2, y2, z2, 80);
