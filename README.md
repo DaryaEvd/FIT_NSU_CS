@@ -37,6 +37,10 @@
 
 - [Объектно-ориентированный анализ и дизайн](https://github.com/DaryaEvd/OOAD) - проект TimeWise под android  
 
-- [Электротехника и электроника](TODO:ДОБАВИТЬ ЗАДАЧИ С ЭКЗА) - расписанные задачи с экзамена по елтеху  
+- [Электротехника и электроника](https://github.com/DaryaEvd/FIT_NSU_CS/blob/main/%D1%8D%D0%BB%D1%82%D0%B5%D1%85%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.pdf) - расписанные задачи с экзамена по элтеху  
 
-- [Базы данных](https://github.com/DaryaEvd/military_app_fullstack) - full stack прект по теме "Военный округ" 
+- [Основы теории управления](https://github.com/DaryaEvd/FIT_NSU_CS/tree/main/OTU) - все отчёты и файлы к лабам + все прорешенные контроши
+
+- [УППРПО](https://github.com/DaryaEvd/project_upprpo) - командный проект  Pseudo-scene of geometric shapes
+
+- [Базы данных](https://github.com/DaryaEvd/military_app_fullstack) - вторая часть курса, full stack прект по теме "Военный округ" 
