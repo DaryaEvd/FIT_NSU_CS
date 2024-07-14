@@ -43,4 +43,7 @@
 
 - [УППРПО](https://github.com/DaryaEvd/project_upprpo) - командный проект  Pseudo-scene of geometric shapes
 
-- [Базы данных](https://github.com/DaryaEvd/military_app_fullstack) - вторая часть курса, full stack прект по теме "Военный округ" 
+- Базы данных  
+    * [Первая часть курса](https://github.com/DaryaEvd/database/tree/main/access_project) - проект "Телефонный справочник"  в ms access  
+    * [Вторая часть курса](https://github.com/DaryaEvd/military_app_fullstack) - вторая часть курса, full stack прект по теме "Военный округ" 
+    * [Документ с подготовкой к экзамену]() - здесь расписана вся теория для подготовки к экзу
