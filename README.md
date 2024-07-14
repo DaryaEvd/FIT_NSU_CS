@@ -46,4 +46,4 @@
 - Базы данных  
     * [Первая часть курса](https://github.com/DaryaEvd/database/tree/main/access_project) - проект "Телефонный справочник"  в ms access  
     * [Вторая часть курса](https://github.com/DaryaEvd/military_app_fullstack) - вторая часть курса, full stack прект по теме "Военный округ" 
-    * [Документ с подготовкой к экзамену]() - здесь расписана вся теория для подготовки к экзу
+    * [Документ с подготовкой к экзамену](https://github.com/DaryaEvd/FIT_NSU_CS/blob/main/database_exam.pdf) - здесь расписана вся теория для подготовки к экзу
